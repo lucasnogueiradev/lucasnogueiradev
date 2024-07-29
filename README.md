@@ -1,8 +1,9 @@
-# 👋 Olá, Mundo!
-FrontEnd Developer <br/>
+
+
+👨‍💻 FullStack Developer <br/>
 <div style="display: inline_block"><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnogueira&show_icons=true&theme=gruvbox)](https://github.com/lucasnogueira/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasnogueira&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
 
 </div>
