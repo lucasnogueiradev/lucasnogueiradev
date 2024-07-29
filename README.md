@@ -1,6 +1,6 @@
 
 
-👨‍💻 FullStack Developer <br/>
+👨‍💻 Full Stack Developer <br/>
 <div style="display: inline_block"><br>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucasnogueira&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
