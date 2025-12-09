@@ -4,7 +4,7 @@
 <div style="display: inline_block"><br>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucasnogueiradev&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&layout=compact&theme=gruvbox)
 
 </div>
 
