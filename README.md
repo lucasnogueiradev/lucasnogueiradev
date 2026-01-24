@@ -7,9 +7,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasnogueiradev&theme=gruvbox)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnogueiradev&theme=gruvbox" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&layout=compact&theme=gruvbox)
 
