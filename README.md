@@ -53,7 +53,8 @@
 ## 🏆 Conquistas do GitHub
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/lucasnogueiradev?template=classic&achievements=1&languages=1&isocalendar=1&theme=gruvbox" />
+  <img src="https://img.shields.io/github/stars/lucasnogueiradev?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/lucasnogueiradev?style=for-the-badge" />
 </p>
 
 
