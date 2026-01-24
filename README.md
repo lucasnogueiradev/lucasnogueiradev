@@ -1,8 +1,16 @@
-## 👨‍💻 Full Stack Developer
+# 👋 Olá, eu sou o Lucas Nogueira!
+
+👨‍💻 **Full Stack Developer** apaixonado por tecnologia, desenvolvimento web e construção de soluções escaláveis.  
+🚀 Sempre buscando evoluir, aprender novas stacks e compartilhar conhecimento.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucasnogueiradev&theme=gruvbox)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&layout=compact&theme=gruvbox)
 
 </div>
@@ -26,7 +34,7 @@
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Onde me encontrar
 
 <div> 
   <a href="https://www.youtube.com/channel/UCYe4ThJgG7kV594meg-PCiQ" target="_blank">
@@ -44,4 +52,19 @@
 
 ## 🏆 Troféus do GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lucasnogueiradev&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasnogueiradev&theme=monokai&column=7"/>
+</p>
+
+---
+
+## 💡 Um pouco mais sobre mim
+
+- 🔭 Atualmente focado em **Full Stack Web**
+- 🌱 Estudando e aprofundando conhecimentos em **Node.js, Docker e Arquitetura de APIs**
+- 💬 Curto trocar ideia sobre **JavaScript, React e Backend**
+- 📫 Entre em contato pelas redes acima
+
+---
+
+⭐ **Se curtir meus projetos, não esquece de deixar uma estrela!**
