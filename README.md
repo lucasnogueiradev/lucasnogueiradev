@@ -13,7 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&layout=compact&theme=gruvbox)
 
-</div>
 
 ---
 
