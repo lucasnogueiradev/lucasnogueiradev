@@ -7,9 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnogueiradev&theme=gruvbox" />
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&theme=gruvbox)
 
