@@ -50,11 +50,12 @@
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🏆 Conquistas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasnogueiradev&theme=monokai&column=7"/>
+  <img src="https://metrics.lecoq.io/lucasnogueiradev?template=classic&achievements=1&languages=1&isocalendar=1&theme=gruvbox" />
 </p>
+
 
 ---
 
