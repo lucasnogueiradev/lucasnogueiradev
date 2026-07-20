@@ -11,8 +11,11 @@ Full Stack Developer com experiência em todo o ciclo de desenvolvimento, desde 
 ### O que eu faço
 
 **Cardápro** — plataforma SaaS de cardápio digital (React/Vite + Node/Express + Cloudflare), cobrindo desenvolvimento de produto, segurança e SEO.
+
 **IA aplicada** — agentes inteligentes e LLMs, RAG, MCP (Model Context Protocol) e automação de processos, incluindo orquestração de agentes para atendimento e pedidos via WhatsApp.
+
 **Observabilidade** — stack de monitoramento (Grafana, Loki, Prometheus) para diagnosticar incidentes e acompanhar saúde de aplicações em produção.
+
 **Arquitetura** — DDD, microsserviços, filas assíncronas (Redis, BullMQ) e webhooks resilientes a falhas de rede.
 
 ---
