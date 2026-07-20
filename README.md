@@ -4,13 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EBDBB2&center=false&vCenter=false&width=535&lines=Full+Stack+Developer+%F0%9F%92%BB;Construindo+SaaS+para+restaurantes+%F0%9F%8D%95;Automa%C3%A7%C3%A3o+e+IA+aplicada+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-Full Stack Developer com experiência em todo o ciclo de desenvolvimento, desde DDD e system design até implementação, testes e deploy, sempre com foco em performance, Clean Code e arquitetura bem definida. Hoje desenvolvo o Cardápro, plataforma SaaS de cardápio digital para restaurantes, bares e lanchonetes no Brasil, atuando de ponta a ponta: produto, segurança e SEO.
+Desenvolvedor Full Stack com experiência em todo o ciclo de desenvolvimento, do system design à produção, focado em performance, escalabilidade e boas práticas.
+
+Atuo com arquitetura bem definida, Clean Code e microsserviços, construindo sistemas resilientes e fáceis de evoluir. Tenho forte experiência em IA aplicada, desenvolvendo agentes inteligentes, integrações com LLMs, RAG e automação de processos.
+
+Trabalho com debugging em produção, correlacionando logs em sistemas distribuídos, e utilizo processamento assíncrono (Redis, BullMQ) para garantir alta performance sob carga.
+
+Experiência sólida em DevOps e infraestrutura (Docker, CI/CD, observabilidade com Grafana/Loki) e desenvolvimento completo com Node.js, React, Next.js e TypeScript.
 
 ---
 
 ### O que eu faço
-
-**Cardápro** — plataforma SaaS de cardápio digital (React/Vite + Node/Express + Cloudflare), cobrindo desenvolvimento de produto, segurança e SEO.
 
 **IA aplicada** — agentes inteligentes e LLMs, RAG, MCP (Model Context Protocol) e automação de processos, incluindo orquestração de agentes para atendimento e pedidos via WhatsApp.
 
