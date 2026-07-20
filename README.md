@@ -25,18 +25,13 @@ Full Stack Developer focado em construir produtos **SaaS escaláveis de ponta a 
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Minhas contribuições
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnogueiradev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiradev&layout=compact&theme=gruvbox" alt="Linguagens mais usadas" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnogueiradev&theme=gruvbox" alt="Streak de commits" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-snake.svg" />
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-snake.svg" />
+</picture>
 
 ---
 
