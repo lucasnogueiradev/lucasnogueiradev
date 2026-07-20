@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EBDBB2&center=false&vCenter=false&width=535&lines=Full+Stack+Developer+%F0%9F%92%BB;Construindo+SaaS+para+restaurantes+%F0%9F%8D%95;Automa%C3%A7%C3%A3o+e+IA+aplicada+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-Full Stack Developer focado em construir produtos **SaaS escaláveis de ponta a ponta** — do frontend à infraestrutura. Hoje desenvolvo o **[Cardápro](https://cardapro.com.br)**, plataforma de cardápio digital para restaurantes, bares e lanchonetes no Brasil, atuando tanto no produto quanto em segurança e SEO.
+Full Stack Developer com experiência em todo o ciclo de desenvolvimento, desde DDD e system design até implementação, testes e deploy, sempre com foco em performance, Clean Code e arquitetura bem definida. Hoje desenvolvo o Cardápro, plataforma SaaS de cardápio digital para restaurantes, bares e lanchonetes no Brasil, atuando de ponta a ponta: produto, segurança e SEO.
 
 ---
 
-### 💼 O que eu faço
+### O que eu faço
 
-- 🍕 **Cardápro** — plataforma SaaS de cardápio digital (React/Vite + Node/Express + Cloudflare), cobrindo desenvolvimento de produto, segurança e SEO.
-- 🤖 **Automação com IA** — projetos de orquestração de agentes de IA para atendimento e pedidos via WhatsApp.
-- 📊 **Observabilidade** — implementação de stack de monitoramento (Grafana, Loki, Prometheus) para acompanhar saúde de aplicações em produção.
-- 🧠 **Assistentes locais** — experimentação com IA offline rodando localmente, sem depender de serviços externos.
+**Cardápro** — plataforma SaaS de cardápio digital (React/Vite + Node/Express + Cloudflare), cobrindo desenvolvimento de produto, segurança e SEO.
+**IA aplicada** — agentes inteligentes e LLMs, RAG, MCP (Model Context Protocol) e automação de processos, incluindo orquestração de agentes para atendimento e pedidos via WhatsApp.
+**Observabilidade** — stack de monitoramento (Grafana, Loki, Prometheus) para diagnosticar incidentes e acompanhar saúde de aplicações em produção.
+**Arquitetura** — DDD, microsserviços, filas assíncronas (Redis, BullMQ) e webhooks resilientes a falhas de rede.
 
 ---
 
