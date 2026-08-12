@@ -12,8 +12,6 @@
 
 <br/>
 
-<h3 align="center">🌌 Sobre Mim</h3>
-
 <p align="center">
   👨‍💻 <b>Desenvolvedor Full Stack</b> focado em performance, arquitetura escalável e Clean Code.<br>
   🤖 <b>IA Aplicada & Automação</b> — Integrando LLMs, RAG e agentes inteligentes para produtos.<br>
@@ -21,8 +19,6 @@
 </p>
 
 <br/>
-
-<h3 align="center">🛸 Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,docker,linux,aws&theme=dark" />
