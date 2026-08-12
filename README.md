@@ -26,8 +26,6 @@
 
 <br/>
 
-<h3 align="center">👾 Snake Game</h3>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
