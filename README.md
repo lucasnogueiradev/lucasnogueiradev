@@ -36,9 +36,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<h3 align="center">👾 O Jogo da Cobrinha (GitHub Snake)</h3>
-<p align="center"><i>Uma cobrinha gerada automaticamente consumindo minhas contribuições!</i></p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/dist/github-contribution-grid-snake-dark.svg">
