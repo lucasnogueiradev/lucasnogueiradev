@@ -14,8 +14,7 @@
 
 <p align="center">
   👨‍💻 <b>Desenvolvedor Full Stack</b> focado em performance, arquitetura escalável e Clean Code.<br>
-  🤖 <b>IA Aplicada & Automação</b> — Integrando LLMs, RAG e agentes inteligentes para produtos.<br>
-  🍕 <b>SaaS para Restaurantes</b> — Construindo sistemas resilientes com Node.js, React e microsserviços.
+  🤖 <b>IA Aplicada & Automação</b> Integrando LLMs, RAG e agentes inteligentes para produtos.<br>
 </p>
 
 <br/>
