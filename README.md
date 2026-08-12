@@ -38,13 +38,23 @@
 
 <div align="center">
   <a href="https://github.com/lucasnogueiradev">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasnogueiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasnogueiradev&show_icons=true&theme=radical&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/lucasnogueiradev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnogueiradev&theme=radical&hide_border=true&background=0D1117" alt="Sequência no GitHub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnogueiradev&theme=radical&locale=pt-BR&hide_border=true&background=0D1117" alt="Sequência no GitHub" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<h3 align="center">👾 O Jogo da Cobrinha (GitHub Snake)</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasnogueiradev/lucasnogueiradev/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
