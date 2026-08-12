@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=24&pause=1000&color=0a0a0a&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;IA+Aplicada+e+Automa%C3%A7%C3%A3o;Construindo+SaaS+Incr%C3%ADveis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=24&pause=1000&color=18b81b&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;IA+Aplicada+e+Automa%C3%A7%C3%A3o;Construindo+SaaS+Incr%C3%ADveis" alt="Typing SVG" />
 </div>
 
 <br/>
